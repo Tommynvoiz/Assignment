@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+	xmlns:android="http://schemas.android.com/apk/res/android"
+	android:layout_marginTop="2dp"
+	android:orientation="vertical"
+	android:layout_width="match_parent"
+	android:layout_height="wrap_content">
+	<TextView
+		android:id="@+id/title"
+		android:text="@string/form_phone_portrait"
+		android:textColor="#ffffff"
+		android:textStyle="bold"
+		android:textAllCaps="true"
+		android:gravity="center"
+		android:maxLines="1"
+		android:background="#666666"
+		android:layout_width="match_parent"
+		android:layout_height="50dp"/>
+	<EditText
+		android:id="@+id/firstName"
+		android:singleLine="true"
+		android:hint="@string/form_first_name"
+		android:textColor="#cccccc"
+		android:paddingLeft="4dp"
+		android:paddingRight="0dp"
+		android:layout_marginTop="10dp"
+		android:layout_width="match_parent"
+		android:layout_height="40dp"/>
+	<EditText
+		android:id="@+id/lastName"
+		android:singleLine="true"
+		android:hint="@string/form_last_name"
+		android:textColor="#cccccc"
+		android:paddingLeft="4dp"
+		android:paddingRight="0dp"
+		android:layout_marginTop="10dp"
+		android:layout_width="match_parent"
+		android:layout_height="40dp"/>
+	<Button
+		android:id="@+id/button"
+		android:gravity="center"
+		android:text="@string/form_enter"
+		android:layout_marginTop="10dp"
+		android:layout_width="match_parent"
+		android:layout_height="40dp"/>
+</LinearLayout><!-- From: file:/C:/Users/Tomas/Desktop/UofT/Assignment/app/src/main/res/layout/form.xml -->

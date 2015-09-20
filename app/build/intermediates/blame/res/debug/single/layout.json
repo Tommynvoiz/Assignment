@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "C:\\Users\\Tomas\\Desktop\\UofT\\Assignment\\app\\build\\intermediates\\res\\merged\\debug\\layout\\applicationactivity.xml",
+        "source": "C:\\Users\\Tomas\\Desktop\\UofT\\Assignment\\app\\src\\main\\res\\layout\\applicationactivity.xml"
+    },
+    {
+        "merged": "C:\\Users\\Tomas\\Desktop\\UofT\\Assignment\\app\\build\\intermediates\\res\\merged\\debug\\layout\\form.xml",
+        "source": "C:\\Users\\Tomas\\Desktop\\UofT\\Assignment\\app\\src\\main\\res\\layout\\form.xml"
+    },
+    {
+        "merged": "C:\\Users\\Tomas\\Desktop\\UofT\\Assignment\\app\\build\\intermediates\\res\\merged\\debug\\layout\\greeting.xml",
+        "source": "C:\\Users\\Tomas\\Desktop\\UofT\\Assignment\\app\\src\\main\\res\\layout\\greeting.xml"
+    }
+]

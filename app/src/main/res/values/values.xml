@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<!-- Keeps any string values which eventually would be translated and are not properties
+		(not dimensions, integers, etc.) -->
+
+	<!-- General -->
+	<string name="application_name">Session 3</string>
+	<string name="application_title">Hello from Session 3</string>
+
+	<!-- Form | res/layout/form.xml -->
+	<string name="form_first_name">First name</string>
+	<string name="form_last_name">Last name</string>
+	<string name="form_enter">Send Name</string>
+	<string name="form_error_close">Close</string>
+	<string name="form_error_title">Error</string>
+	<string name="form_error_description">Please add First and Last name</string>
+	<string name="form_phone_portrait">Phone Portrait</string>
+	<string name="form_phone_landscape">Phone Landscape</string>
+	<string name="form_tablet_portrait">Tablet Portrait</string>
+	<string name="form_tablet_landscape">Tablet Landscape</string>
+
+	<!-- Greeting | res/layout/greeting.xml -->
+	<string name="greeting_unknown">N/A</string>
+	<string name="greeting_text">Greeting, %1$s %2$s</string>
+	<string name="greeting_reset">Again</string>
+</resources>

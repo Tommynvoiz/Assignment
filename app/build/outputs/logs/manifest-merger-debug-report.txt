@@ -1,0 +1,75 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Tomas\Desktop\UofT\Assignment\app\src\main\AndroidManifest.xml:2:1-33:12
+	package
+		ADDED from C:\Users\Tomas\Desktop\UofT\Assignment\app\src\main\AndroidManifest.xml:4:2-32
+		INJECTED from C:\Users\Tomas\Desktop\UofT\Assignment\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Tomas\Desktop\UofT\Assignment\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\Tomas\Desktop\UofT\Assignment\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Tomas\Desktop\UofT\Assignment\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Tomas\Desktop\UofT\Assignment\app\src\main\AndroidManifest.xml:3:2-60
+	android:versionCode
+		INJECTED from C:\Users\Tomas\Desktop\UofT\Assignment\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Tomas\Desktop\UofT\Assignment\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\Tomas\Desktop\UofT\Assignment\app\src\main\AndroidManifest.xml:6:2-63
+	android:name
+		ADDED from C:\Users\Tomas\Desktop\UofT\Assignment\app\src\main\AndroidManifest.xml:6:19-61
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from C:\Users\Tomas\Desktop\UofT\Assignment\app\src\main\AndroidManifest.xml:7:2-75
+	android:name
+		ADDED from C:\Users\Tomas\Desktop\UofT\Assignment\app\src\main\AndroidManifest.xml:7:19-73
+supports-screens
+ADDED from C:\Users\Tomas\Desktop\UofT\Assignment\app\src\main\AndroidManifest.xml:9:2-13:33
+	android:largeScreens
+		ADDED from C:\Users\Tomas\Desktop\UofT\Assignment\app\src\main\AndroidManifest.xml:12:3-30
+	android:smallScreens
+		ADDED from C:\Users\Tomas\Desktop\UofT\Assignment\app\src\main\AndroidManifest.xml:10:3-30
+	android:normalScreens
+		ADDED from C:\Users\Tomas\Desktop\UofT\Assignment\app\src\main\AndroidManifest.xml:11:3-31
+	android:xlargeScreens
+		ADDED from C:\Users\Tomas\Desktop\UofT\Assignment\app\src\main\AndroidManifest.xml:13:3-31
+application
+ADDED from C:\Users\Tomas\Desktop\UofT\Assignment\app\src\main\AndroidManifest.xml:15:2-32:16
+	android:label
+		ADDED from C:\Users\Tomas\Desktop\UofT\Assignment\app\src\main\AndroidManifest.xml:19:3-43
+	android:hardwareAccelerated
+		ADDED from C:\Users\Tomas\Desktop\UofT\Assignment\app\src\main\AndroidManifest.xml:17:3-37
+	android:icon
+		ADDED from C:\Users\Tomas\Desktop\UofT\Assignment\app\src\main\AndroidManifest.xml:20:3-44
+	android:largeHeap
+		ADDED from C:\Users\Tomas\Desktop\UofT\Assignment\app\src\main\AndroidManifest.xml:18:3-27
+	android:name
+		ADDED from C:\Users\Tomas\Desktop\UofT\Assignment\app\src\main\AndroidManifest.xml:16:3-50
+activity#com.scs2682.session3.ApplicationActivity
+ADDED from C:\Users\Tomas\Desktop\UofT\Assignment\app\src\main\AndroidManifest.xml:21:3-31:14
+	android:screenOrientation
+		ADDED from C:\Users\Tomas\Desktop\UofT\Assignment\app\src\main\AndroidManifest.xml:26:4-43
+	android:label
+		ADDED from C:\Users\Tomas\Desktop\UofT\Assignment\app\src\main\AndroidManifest.xml:23:4-44
+	android:launchMode
+		ADDED from C:\Users\Tomas\Desktop\UofT\Assignment\app\src\main\AndroidManifest.xml:25:4-33
+	android:theme
+		ADDED from C:\Users\Tomas\Desktop\UofT\Assignment\app\src\main\AndroidManifest.xml:24:4-35
+	android:name
+		ADDED from C:\Users\Tomas\Desktop\UofT\Assignment\app\src\main\AndroidManifest.xml:22:4-59
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from C:\Users\Tomas\Desktop\UofT\Assignment\app\src\main\AndroidManifest.xml:27:4-30:20
+action#android.intent.action.MAIN
+ADDED from C:\Users\Tomas\Desktop\UofT\Assignment\app\src\main\AndroidManifest.xml:28:5-56
+	android:name
+		ADDED from C:\Users\Tomas\Desktop\UofT\Assignment\app\src\main\AndroidManifest.xml:28:13-54
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Tomas\Desktop\UofT\Assignment\app\src\main\AndroidManifest.xml:29:5-64
+	android:name
+		ADDED from C:\Users\Tomas\Desktop\UofT\Assignment\app\src\main\AndroidManifest.xml:29:15-62
+uses-sdk
+INJECTED from C:\Users\Tomas\Desktop\UofT\Assignment\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+	android:targetSdkVersion
+		INJECTED from C:\Users\Tomas\Desktop\UofT\Assignment\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Tomas\Desktop\UofT\Assignment\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\Tomas\Desktop\UofT\Assignment\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Tomas\Desktop\UofT\Assignment\app\src\main\AndroidManifest.xml
